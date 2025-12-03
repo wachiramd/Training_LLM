@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="715.28516"
+   height="273.78748"
+   viewBox="0 0 189.25252 72.439603"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="rope_preserved_relative_positions.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="3.2102777"
+     inkscape:cx="356.82271"
+     inkscape:cy="224.74691"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.513868,-105.36668)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.404858"
+       id="rect17"
+       width="189.25253"
+       height="72.439598"
+       x="20.513868"
+       y="105.36668" />
+    <path
+       style="fill:#da76c7;fill-opacity:1;stroke-width:0.529167"
+       d="m 127.61269,157.6004 c 1.56924,0 6.08376,0 6.08376,0 l -3.04188,11.35244 z"
+       id="path18"
+       inkscape:transform-center-x="-1.4328592e-06"
+       inkscape:transform-center-y="-5.6762201" />
+    <path
+       style="fill:#da76c7;stroke-width:0.529167;fill-opacity:1"
+       d="m 43.82397,160.64228 c 0.784617,1.359 3.041877,5.26869 3.041877,5.26869 l -11.352438,3.04187 z"
+       id="path17" />
+    <g
+       id="g17"
+       transform="translate(-2.6833714,1.54735)">
+      <path
+         style="fill:#ffffff;stroke:#a02c89;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2)"
+         d="M 38.196781,167.40549 76.665853,157.09773"
+         id="path6"
+         inkscape:transform-center-x="-19.234538"
+         inkscape:transform-center-y="-5.1538783" />
+      <path
+         style="fill:#ffffff;stroke:#a02c89;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2)"
+         d="M 38.196779,167.40549 66.358103,139.24417"
+         id="path9"
+         inkscape:transform-center-x="-14.080659"
+         inkscape:transform-center-y="-14.080657" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2)"
+         d="m 38.328521,120.42635 -0.13174,46.97914 h 46.847402"
+         id="path13"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="79.147087"
+         y="134.40237"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="79.147087"
+           y="134.40237">Imad</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="94.294395"
+         y="154.24855"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="94.294395"
+           y="154.24855">friend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="93.578423"
+         y="169.14977"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="93.578423"
+           y="169.14977">X</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="39.72488"
+         y="114.94134"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="39.72488"
+           y="114.94134">Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="55.330036"
+         y="118.74303"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="55.330036"
+           y="118.74303"><tspan
+   style="fill:#808080"
+   id="tspan12">My</tspan> friend<tspan
+   style="fill:#808080"
+   id="tspan15"> is</tspan> Imad</tspan></text>
+      <path
+         style="fill:#ffffff;stroke:#a02c89;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2)"
+         d="m 133.33794,167.40549 10.30775,-38.46908"
+         id="path1"
+         inkscape:transform-center-x="-5.1538784"
+         inkscape:transform-center-y="-19.234538" />
+      <path
+         style="fill:#ffffff;stroke:#a02c89;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2)"
+         d="M 133.33794,167.40549 123.03019,128.93641"
+         id="path3"
+         inkscape:transform-center-x="5.1538772"
+         inkscape:transform-center-y="-19.234537" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2)"
+         d="m 133.46968,120.42635 -0.13174,46.97914 h 46.8474"
+         id="path4"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="126.84994"
+         y="123.56267"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="126.84994"
+           y="123.56267">Imad</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="157.49918"
+         y="123.47775"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="157.49918"
+           y="123.47775">friend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="188.71957"
+         y="169.14977"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="188.71957"
+           y="169.14977">X</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="134.86603"
+         y="114.94133"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-weight:normal;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="134.86603"
+           y="114.94133">Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.64444px;line-height:1.5;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed,  Bold';text-align:end;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         x="151.25168"
+         y="143.94006"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#808080;stroke:none;stroke-width:0.529167"
+           x="151.25168"
+           y="143.94006">Whose is your friend?</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167"
+           x="151.25168"
+           y="152.40672"
+           id="tspan11"><tspan
+   style="fill:#808080"
+   id="tspan16">My </tspan>friend<tspan
+   style="fill:#808080"
+   id="tspan17"> is</tspan> Imad</tspan></text>
+    </g>
+  </g>
+</svg>
